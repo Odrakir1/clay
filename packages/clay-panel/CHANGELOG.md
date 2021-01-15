@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.3.4](https://github.com/liferay/clay/compare/@clayui/panel@3.3.3...@clayui/panel@3.3.4) (2021-01-14)
+
+### Bug Fixes
+
+-   **@clayui/panel:** allow for the panel to be expanded on first render ([28b7ae4](https://github.com/liferay/clay/commit/28b7ae4))
+
+## [3.3.3](https://github.com/liferay/clay/compare/@clayui/panel@3.3.2...@clayui/panel@3.3.3) (2021-01-13)
+
+### Bug Fixes
+
+-   **@clayui/panel:** add ability to be a controlled component for expanding ([6bf6358](https://github.com/liferay/clay/commit/6bf6358))
+
 ## [3.3.2](https://github.com/liferay/clay/compare/@clayui/panel@3.3.0...@clayui/panel@3.3.2) (2020-12-16)
 
 **Note:** Version bump only for package @clayui/panel
